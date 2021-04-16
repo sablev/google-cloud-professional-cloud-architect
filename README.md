@@ -1,6 +1,6 @@
 # Google Cloud Professional Cloud Architect
 
-# Примеры
+## Примеры
 
 - [EHR Healthcare](case-studies/ehr-healthcare/README.md)
 - [Helicopter Racing League](case-studies/helicopter-racing-league/README.md)
